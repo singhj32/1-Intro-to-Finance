@@ -18,9 +18,9 @@
      Softbank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20.0%  
      Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100.0% 
 
-Acquisitions:
+    Acquisitions:
 
-Paytm has made various acquisitions over the years such as Near.in, Shifu, EduKart, Shopsity, Insider.in, Little, nearbuy, TicketNew, Cube26, NightStay, and Balance.
+    Paytm has made various acquisitions over the years such as Near.in, Shifu, EduKart, Shopsity, Insider.in, Little, nearbuy, TicketNew, Cube26, NightStay, and Balance.
 
 ## Business Activities:
 
