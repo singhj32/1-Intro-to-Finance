@@ -61,7 +61,7 @@ Paytm is now available in 11 Indian languages and offers online use-cases like m
 -_Average revenue per user (ARPU) and average transaction value._  
 -_Churn rate._  
 * Paytm has been outlaying its competitors since its came into existence. It is way ahead than other players in the Indian market. Some of the statistics suporting this fact are shown below:  
-![transactions](transactions.png) ![marketshare](marketshare.png)
+![transactions](transactions.png)
 
 
 
