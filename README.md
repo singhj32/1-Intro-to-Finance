@@ -62,7 +62,7 @@ Paytm is now available in 11 Indian languages and offers online use-cases like m
 -_Churn rate._  
 * Paytm has been outlaying its competitors since its came into existence. It is way ahead than other players in the Indian market. Some of the statistics suporting this fact are shown below:   
 
-    ![transactions.PNG](transactions.PNG)
+    ![transactions.PNG](transactions.PNG)  ![MarketShare.PNG](MarketShare.PNG)
 
 
 
